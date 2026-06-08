@@ -23,6 +23,9 @@ Add student input functionality
 Add search and average calculation
 ```
 
+```bash
+Final testing and documentation
+```
 ## How to Run
 ### Compile
 
