@@ -9,11 +9,17 @@ This Java console-based application helps teachers manage student academic recor
 - Search Student by ID
 - Calculate Average Marks
 
-## How to Run
 
+## How to create 
 ```bash
 Create Student class
 ```
+
+```bash
+Add student input functionality
+```
+
+## How to Run
 ### Compile
 
 ```bash
