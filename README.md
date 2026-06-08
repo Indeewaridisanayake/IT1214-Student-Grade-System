@@ -19,6 +19,10 @@ Create Student class
 Add student input functionality
 ```
 
+```bash
+Add search and average calculation
+```
+
 ## How to Run
 ### Compile
 
