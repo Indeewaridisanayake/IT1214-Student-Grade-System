@@ -11,6 +11,9 @@ This Java console-based application helps teachers manage student academic recor
 
 ## How to Run
 
+```bash
+Create Student class
+```
 ### Compile
 
 ```bash
